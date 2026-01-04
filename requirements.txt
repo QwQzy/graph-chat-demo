@@ -1,0 +1,8 @@
+langchain==1.0.0
+langgraph==1.0.0
+uvicorn==0.34.0
+fastapi==0.115.8
+sse-starlette==2.3.4
+motor==3.7.1
+redis==6.4.0
+langgraph-checkpoint-mongodb==0.1.3
